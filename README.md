@@ -17,3 +17,7 @@ DÍA 3:
   Segundo archivo PAULA - Prophet - Predecir el valor del ORO - Trabajamos con la librería Prophet y sus diferentes funciones para predecir la evolución del valor del ORO, generar y visualizar gráficas e importar datos de otras librerías, incluída Yahoo Finance.
   Tercer archivo PAULA - M5 - 09 - Folium - Trabajamos con la librería Folium y sus diferentes funciones para generar mapas, modificar la forma en que visualizamos los mimsos o añadir marcadores. También comenzamos a trabajar con mapas de Coropletas.
   Cuarto archivo world_countries - base de datos en formato JSON.
+
+DÍA 4:
+  SpaceX2 - 5 - Interactive Visual Analytics con Folium
+  SpaceX2 - 6 - Machine Learning Predicciones
